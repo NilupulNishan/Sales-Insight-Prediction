@@ -74,6 +74,3 @@ This project explores the application of data mining techniques on retail sales 
 - Additional pages: Product performance, shipping efficiency
 
 ---
-
-## 📂 File Structure
-
