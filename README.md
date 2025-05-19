@@ -1,4 +1,5 @@
-# Sales-Insight-Prediction  [Watch on Google Drive](https://drive.google.com/file/d/1Yyu3axN7M86ODDZdwHeKAuPi0AvUvlpd/view?usp=sharing)
+# Sales-Insight-Prediction 
+[Watch on Google Drive - Explanation Video](https://drive.google.com/file/d/1Yyu3axN7M86ODDZdwHeKAuPi0AvUvlpd/view?usp=sharing)
 
 
 **A Data Mining and Business Intelligence project**  
