@@ -24,7 +24,8 @@ This project explores the application of data mining techniques on retail sales 
 
 ## Dataset
 
-- **Source:** Kaggle – Superstore Sales Dataset  
+- **Source:** Kaggle – Superstore Sales Dataset [Download the original dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
 - **Records:** 9,994 transactions  
 - **Features:** 21 columns including:
   - Temporal: `Order Date`, `Ship Date`
